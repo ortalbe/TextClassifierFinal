@@ -1,0 +1,38 @@
+{
+  "classification_rules": [
+    {
+      "domain": " Electric motor",
+      "indicators": [
+        "NdFeB magnets",
+        "Electric motor",
+        "Electric vehicle",
+        "Hybrid electric vehicle",
+        "Recycling",
+        "Rare earth elements"
+      ]
+    },
+    {
+      "domain": "financial",
+      "indicators": [
+        "credit card",
+        "bank account"
+      ]
+    },
+    {
+      "domain": "Electrical generator",
+      "indicators": [
+        "wind energy",
+        "alternative energy",
+        "kite-powered system"
+      ]
+    },
+    {
+      "domain": "Voltage law",
+      "indicators": [
+        "Innovation graph",
+        "Network parameter errors",
+        "kite-powered system"
+      ]
+    }
+  ]
+}

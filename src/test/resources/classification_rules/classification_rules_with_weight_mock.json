@@ -1,0 +1,30 @@
+{
+  "classification_rules": [
+    {
+      "domain": "financial",
+      "indicators": [
+        {
+          "name": "credit card",
+          "weight": "0.5"
+        },
+        {
+          "name": "bank account",
+          "weight": "0.2"
+        }
+      ]
+    },
+    {
+      "domain": "healthcare",
+      "indicators": [
+        {
+          "name": "medical insurance",
+          "weight": "2"
+        },
+        {
+          "name": "hospital",
+          "weight": "0.2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "classification_rules": [
+    {
+      "domain": " Electric motor",
+      "indicators": [
+        "NdFeB magnets",
+        "Electric motor"
+      ]
+    },
+    {
+      "domain": "Electrical generator",
+      "indicators": [
+        "wind energy",
+
+      ]
+    }
+  ]
+}
